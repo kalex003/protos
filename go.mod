@@ -1,4 +1,4 @@
-module protos
+module github.com/kalex003/protos
 
 go 1.22
 
